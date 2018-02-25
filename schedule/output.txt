@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+	  Denver Sports Center
+	 </title>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="vkCI6lk5thyNqbmCYfg0BxlcoHhX99IcHPv47IxeHGw=" name="csrf-token" />
+  <script src="/assets/application-937a43003b91f171746c1fc9891df2ef.js" type="text/javascript"></script>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!-- core styles -->
+  <link href="/assets/xcarab/base-4e40ced385584aaf304a9c9b2272294c.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/assets/xcarab/content-611c6364b0cee357cef23a5d4c241bf6.css" media="screen" rel="stylesheet" type="text/css" />
+  <!--[if lte IE 7]>
+    <link href="/assets/xcarab/iebase-9b95c86cf78fd546744038a73f10bce8.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+    <link href="/assets/xcarab/iebase-9b95c86cf78fd546744038a73f10bce8.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  
+  <!--[if IE]>
+    <script src="/assets/PIE-509bae09a5dc3d8c0aea6ee70e49b167.js" type="text/javascript"></script>
+  <![endif]-->
+  
+  <link href="/assets/xcarab/print-6e8300c42182c5ec628602e1ed6b08ff.css" media="print" rel="stylesheet" type="text/css" />
+
+  <!-- site specific styles -->
+  <link href="/assets/xcarab/site-ac4e8186dedc86f99356c6a01b0c42ae.css" media="screen" rel="stylesheet" type="text/css" />
+  <!--[if lte IE 8]>
+    <link href="/assets/xcarab/site_ie-2e6c297249d5c98482c40f37a9c7fe2c.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <link href="/assets/xcarab/editor-0bc7da2900faf9a847f1a2e838ccc1fc.css" media="screen" rel="stylesheet" type="text/css" />
+  
+  <link href="/assets/application-4485b1bbc655e93af84fc13c97049f46.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/assets/custom-fc586f0be0509ff36c1528b5d5c07cbc.css" media="screen" rel="stylesheet" type="text/css" />
+  <script type="text/javascript">
+
+ 
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-29633229-1']);
+
+  _gaq.push(['_trackPageview']);
+
+ 
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+ 
+
+</script>
+
+  
+</head>
+<body>
+  
+
+  <div id="header">
+    <div class="page">
+        
+        <div class="page_margins">
+            <a href="/"><img alt="Let&#x27;s Play Soccer" class="logo" src="/assets/logo-8d455b385765122facc33a87360423fa.png" /></a>
+            <div id="navigation">
+                <ul class="menu">
+                  <li ><a href="/facilities/5">Home</a></li>
+	                <li ><a href="/about">About Us</a></li>
+                  <li ><a href="/job_openings">Careers</a></li>
+                  <li ><a href="/rulebook">Rulebook</a></li>
+                  <li 
+		        ><a href="/contact/new?facility_id=5">Contact Us</a>
+		      </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+  </div>
+  
+  <div id="main">
+    <div class="page">
+        <div id="pageHeader">
+            <div class="page_margins">
+                
+                <h1>Denver Sports Center</h1>
+                
+            </div>
+        </div>
+      <div class="page_margins">
+        <div id="sideBar">
+          <div class="gutter"><div id="col1" class="round dark">
+  <div id="col1-content">                    
+  <ul class="sb-menu">
+    <li><a href="/facilities/5">Facility Info</a></li>
+    <li><a href="/facilities/5/map">Map</a></li>
+    <li><a href="/facilities/5/leagues">Upcoming Leagues</a></li>
+    <li><a href="/facilities/5/division_seasons">Standings</a></li>
+    <li><a href="/facilities/5/teams">Team Schedules</a></li>
+    <li><a href="/facilities/5/facility_photos">Photos</a></li>
+    <li><a href="/facilities/5/games">Daily Schedule</a></li>
+    <li><a href="/facilities/5/rental">Field Rentals</a></li>
+    <li><a href="/facilities/5/job_openings">Careers</a></li>    
+      <li><a href="/facilities/5/youth_info">Youth Info</a></li>
+        <li><a href="/facilities/5/adult_info">Adult Info</a></li>
+    <li><a href="/facilities/5/facility_sponsors">Sponsors</a></li>
+  </ul>
+ 
+  </div>
+</div>
+ <br />
+ <br />
+    <br/><br/>
+    <h4>Our sponsors</h4>
+  
+        <div>
+          <a href="/facilities/5/facility_sponsors/48"><img alt="Soccer-buddies-denver_sm" src="https://lets-play-sports.s3.amazonaws.com/uploads/facility_sponsor/small_logo/48/large/soccer-buddies-denver_sm.jpg" style="max-width:220px" /></a>
+        </div>
+  
+
+    <div class="sidebar-content">
+      <a href="http://reviews.greatplacetowork.com/let-s-play-sports-inc" title="Rating and Review" target="_blank" >
+        <img alt="Review" class="side_gptw" src="/assets/GPTW-2016-10-99571c0c13361ab69d5b65d208a7f458.png" />
+      </a>
+    </div>
+
+  </div>
+        </div>
+        <div id="mainright">
+            <div id="signin_links" class="signin_links ">
+			<a href="https://letsplaysportsinc.waiverapps.com/locations/denversportscenter" target="_blank"><img alt="Btn_sign_waiver" src="/assets/btn_sign_waiver-9132b9da7ee341cdb04da8d0eca9ecd0.jpg" /></a>
+              <a href="/users/facilities/5/sign_in"><img alt="Btn_sign-in" src="/assets/btn_sign-in-142c8afc55571a70a5d0e6826fbfe379.jpg" /></a> <a href="/users/facilities/5/sign_up"><img alt="Btn_register" src="/assets/btn_register-0fe3cfdea728e2840bfccd21858ca6ef.jpg" /></a> <span class="fixed-text">to access personalized schedules!</span>
+	    </div>
+        <div style="text-align:right;">
+        </div>
+
+	  <h1 class="notranslate">CHEEKY MONKEYS</h1>
+<h3>Season: 117  Division:
+  Coed 4
+</h3>
+
+
+<h2>Game Schedule</h2>
+<table>
+     <tr>
+    <th>Game Time</th><th>Field</th><th>Home Team</th><th>Visitor Team</th><th>Score</th>
+  </tr>
+ 
+  <tr>
+    <td> <a href="/facilities/5/games?exact_date=18-01-05">Fri 01-05-18 08:45 PM</a></td>
+    <td> 1</td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283918">CHEEKY MONKEYS</a></td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283958">ALACRANES</a></td>
+    <td> 5 - 5</td>
+  </tr>
+ 
+  <tr>
+    <td> <a href="/facilities/5/games?exact_date=18-01-12">Fri 01-12-18 09:15 PM</a></td>
+    <td> 1</td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283959">COME BACK</a></td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283918"><b class="game_winner">CHEEKY MONKEYS</b></a></td>
+    <td> 4 - 7</td>
+  </tr>
+ 
+  <tr>
+    <td> <a href="/facilities/5/games?exact_date=18-01-19">Fri 01-19-18 11:30 PM</a></td>
+    <td> 1</td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283918"><b class="game_winner">CHEEKY MONKEYS</b></a></td>
+    <td class="notranslate"> <a href="/facilities/5/teams/284268">RED SHARKS</a></td>
+    <td> 6 - 4</td>
+  </tr>
+ 
+  <tr>
+    <td> <a href="/facilities/5/games?exact_date=18-01-26">Fri 01-26-18 10:45 PM</a></td>
+    <td> 1</td>
+    <td class="notranslate"> <a href="/facilities/5/teams/284269">VYPERS MIX</a></td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283918"><b class="game_winner">CHEEKY MONKEYS</b></a></td>
+    <td> 3 - 6</td>
+  </tr>
+ 
+  <tr>
+    <td> <a href="/facilities/5/games?exact_date=18-02-02">Fri 02-02-18 10:45 PM</a></td>
+    <td> 1</td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283918"><b class="game_winner">CHEEKY MONKEYS</b></a></td>
+    <td class="notranslate"> <a href="/facilities/5/teams/285463">THE SMURFS</a></td>
+    <td> 8 - 4</td>
+  </tr>
+ 
+  <tr>
+    <td> <a href="/facilities/5/games?exact_date=18-02-09">Fri 02-09-18 09:15 PM</a></td>
+    <td> 1</td>
+    <td class="notranslate"> <a href="/facilities/5/teams/284268">RED SHARKS</a></td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283918">CHEEKY MONKEYS</a></td>
+    <td> </td>
+  </tr>
+ 
+  <tr>
+    <td> <a href="/facilities/5/games?exact_date=18-02-16">Fri 02-16-18 07:45 PM</a></td>
+    <td> 1</td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283918">CHEEKY MONKEYS</a></td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283959">COME BACK</a></td>
+    <td> </td>
+  </tr>
+ 
+  <tr>
+    <td> <a href="/facilities/5/games?exact_date=18-02-16">Fri 02-16-18 11:30 PM</a></td>
+    <td> 1</td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283958">ALACRANES</a></td>
+    <td class="notranslate"> <a href="/facilities/5/teams/283918">CHEEKY MONKEYS</a></td>
+    <td> </td>
+  </tr>
+</table>
+
+<h2>Standings</h2>
+<table>
+  <tr>
+    <th>Team Name</th><th>W</th><th>L</th><th>T</th><th>GF</th><th>GA</th><th>P</th>
+  </tr>
+  <tr>
+    <td class="notranslate"><a href="/facilities/5/teams/283918">CHEEKY MONKEYS</a></td>
+    <td>4</td>
+    <td>0</td>
+    <td>1</td>
+    <td>32</td>
+    <td>20</td>
+    <td>70</td>
+  </tr>
+  <tr>
+    <td class="notranslate"><a href="/facilities/5/teams/284268">RED SHARKS</a></td>
+    <td>3</td>
+    <td>1</td>
+    <td>0</td>
+    <td>27</td>
+    <td>19</td>
+    <td>49</td>
+  </tr>
+  <tr>
+    <td class="notranslate"><a href="/facilities/5/teams/283958">ALACRANES</a></td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>21</td>
+    <td>13</td>
+    <td>43</td>
+  </tr>
+  <tr>
+    <td class="notranslate"><a href="/facilities/5/teams/284269">VYPERS MIX</a></td>
+    <td>2</td>
+    <td>3</td>
+    <td>0</td>
+    <td>22</td>
+    <td>23</td>
+    <td>39</td>
+  </tr>
+  <tr>
+    <td class="notranslate"><a href="/facilities/5/teams/285463">THE SMURFS</a></td>
+    <td>1</td>
+    <td>2</td>
+    <td>0</td>
+    <td>15</td>
+    <td>20</td>
+    <td>24</td>
+  </tr>
+  <tr>
+    <td class="notranslate"><a href="/facilities/5/teams/283959">COME BACK</a></td>
+    <td>0</td>
+    <td>5</td>
+    <td>0</td>
+    <td>11</td>
+    <td>33</td>
+    <td>11</td>
+  </tr>
+</table>
+
+
+
+	</div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
+<div id="footer">
+    <p>&copy; Copyright Let's Play. All rights reserved. | <span id="xcarab">Site by <a target="_blank" title=
+            "AllCode provides software development services for Mobile and the Cloud" href="http://www.allcode.com" rel="nofollow">AllCode</a>, <a target="_blank" title=
+      "MobileAWS provides software development services for Mobile and the Cloud" href="http://www.mobileaws.com" rel="nofollow">MobileAWS</a>, and <a href="http://www.xcarab.com">Xcarab</a></span></p>
+    <p><a href="/privacy">Privacy Policy</a></p>
+    <ul class="footer-menu">
+	    
+    </ul>
+</div>
+</body>
+
+</html>
